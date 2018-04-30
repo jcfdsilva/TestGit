@@ -7,8 +7,8 @@ package uGIT_Test;
 
 public class TestGutUpdate extends TestGit {
 
-	public TestGutUpdate(String parameter1) {
-		super(parameter1);
+	public TestGutUpdate(String parameter) {
+		super(parameter);
 		
 	}
 
